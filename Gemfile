@@ -58,3 +58,7 @@ gem "twitter-bootstrap-rails"
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 
 gem "font-awesome-rails"
+
+gem "simple_form"
+
+  
